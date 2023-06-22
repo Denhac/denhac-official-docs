@@ -4,6 +4,8 @@
 
 This Release, Indemnification and Hold Harmless Agreement is executed and made effective on the date of submission by denhac ("Releasee"), located at 700 Kalamath Street, Denver, CO 80204 ("the Space"), in favor of and for the benefit of Releasee and all of its officers, directors, employees, lenders, donors, members, guests, volunteers and all other persons or entities acting from them.
 
+You agree that you are voluntarily joining or visiting denhac, or participating in a denhac activity with knowledge of the risks of doing so, such as the risks of injury, property damage, or death resulting from the use of potentially dangerous tools or materials, even if these risks or hazards are unknown to you, and/or the active or passive negligence of denhac, A Colorado Nonprofit Corporation and its respective officers, directors, employees, and agents (collectively, “we” or “us”). You release us from all liability, claims, damage, or demands arising from or related in any way to being a member or guest of denhac or your participation in any denhac activity.
+
 IN CONSIDERATION OF the right to enter, use, provide or perform services and/or participate in activities operated by Releasee ("Activity") and for other good, valuable and legal consideration, the receipt and sufficiency of which are acknowledged, the parties agree as follows:
 
 **1. Assumption of Risk.**
