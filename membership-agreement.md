@@ -1,4 +1,4 @@
-# Denhac Membership Agreement
+# denhac Membership Agreement
 
 This membership agreement is a contract that discusses member rights, responsibilities, and expectations of all members or guests of denhac. This membership agreement references a number of official policies that are available for member review. These documents can be found on denhac’s website.
 
@@ -8,12 +8,12 @@ denhac and Member hereby agree to the following terms:
 The following terms will have the stated meanings for purposes of this Agreement:
 1. **Full Member, Member.** A denhac Member has had their ID verified by an authorized denhac agent and has been issued an RFID card. Member has full access to the space and tools.
 2. **Pending Member.** A Pending Member is one who has paid but has not yet had an ID check and been issued an RFID card. Pending members do not have full access to the space and are not yet allowed to use any tools.
-3. **Denhac Agent.** "Agent" refers to any authorized agent who is able to represent denhac in an official capacity. Generally applies to any member of the Board and/or any of our Managers.
+3. **denhac Agent.** "Agent" refers to any authorized agent who is able to represent denhac in an official capacity. Generally applies to any member of the Board and/or any of our Managers.
 4. **The Building, The Space.** The "Building" and/or "Space" means the real property located at 700 Kalamath Street, Denver, CO 80204, as well as the adjacent alley and parking lots located on the property.
 5. **The Website.** "Website" refers to the site running at denhac.org, which all members use for signing up, providing profile/contact information, saving payment methods, voting in member-only polls, and other such functions. Most all denhac services interact with the website in some capacity.
 6. **Hackerspace.** "Hackerspace" means the spaces in the Building defined by denhac for use by hackerspace members under the terms of this Agreement.
 7. **Common Areas.** "Common Areas" means the spaces in the Building defined by denhac that may be used and accessed by all denhac members, unless otherwise reserved by a denhac member.
-8. **Board, The Board.** Denhac's Board of Directors. A full description of denhac's Board is [linked here](https://denhac.org/wiki/the-board).
+8. **Board, The Board.** denhac's Board of Directors. A full description of denhac's Board is [linked here](https://denhac.org/wiki/the-board).
 9. **Bylaws.** The articles established by denhac regarding regulation and proceedings of the organization as a whole, which are [linked here](https://denhac.org/bylaws).
 10. **Wiki.** The collective knowledge base perpetually being built by Members and Agents of denhac, which is [linked here](https://denhac.org/wiki).
 11. **Official Policies.** The policies and procedures of denhac, as approved by the Board of Directors, which is [linked here](https://denhac.org/denhac-official-policies).
@@ -70,7 +70,7 @@ In addition to use of the Hackerspace indicated above, Member's benefits of Memb
    Additional equipment may be added to the hackerspace from time to time that may require additional regulations. Member agrees to abide by any and all regulations and access requirements denhac deems necessary in its sole discretion.
 
 7. **Member Storage**
-   Members may choose to utilize our Member Storage area for anything reasonable they wish to leave at the space between visits. Each member is granted, by request, a single large (~20 gallon) clear plastic storage container with a lid. All of Member's storage must fit inside this container, and the lid must be able to close securely. Additionally, the container must be clearly labeled with the Member's name, Member Code (found in the Account section of the website), or both. The container must be stored with the member label visible from the outside. This is the only approved storage container for our Member Storage area. Denhac is not responsible for any items left outside Member's storage container, stacked near it, in front of it, on top, etc. In the event we have to reorganize the storage space, we cannot be held liable for the loss or misplacement of any items that Member has not clearly and unambiguously stored within their approved storage container. It is against policy for any Member to take items from another Member's storage unless said item is an apparent and obvious hazard (electrical, biological, radioactive, etc).
+   Members may choose to utilize our Member Storage area for anything reasonable they wish to leave at the space between visits. Each member is granted, by request, a single large (~20 gallon) clear plastic storage container with a lid. All of Member's storage must fit inside this container, and the lid must be able to close securely. Additionally, the container must be clearly labeled with the Member's name, Member Code (found in the Account section of the website), or both. The container must be stored with the member label visible from the outside. This is the only approved storage container for our Member Storage area. denhac is not responsible for any items left outside Member's storage container, stacked near it, in front of it, on top, etc. In the event we have to reorganize the storage space, we cannot be held liable for the loss or misplacement of any items that Member has not clearly and unambiguously stored within their approved storage container. It is against policy for any Member to take items from another Member's storage unless said item is an apparent and obvious hazard (electrical, biological, radioactive, etc).
 
 **Benefits of Membership**
 
@@ -108,7 +108,7 @@ In addition to use of the Hackerspace indicated above, Member's benefits of Memb
    Additional equipment may be added to the hackerspace from time to time that may require additional regulations. Member agrees to abide by any and all regulations and access requirements denhac deems necessary in its sole discretion.
 
 7. **Member Storage**
-   Members may choose to utilize our Member Storage area for anything reasonable they wish to leave at the space between visits. Each member is granted, by request, a single large (~20 gallon) clear plastic storage container with a lid. All of Member's storage must fit inside this container, and the lid must be able to close securely. Additionally, the container must be clearly labeled with the Member's name, Member Code (found in the Account section of the website), or both. The container must be stored with the member label visible from the outside. This is the only approved storage container for our Member Storage area. Denhac is not responsible for any items left outside Member's storage container, stacked near it, in front of it, on top, etc. In the event we have to reorganize the storage space, we cannot be held liable for the loss or misplacement of any items that Member has not clearly and unambiguously stored within their approved storage container. It is against policy for any Member to take items from another Member's storage unless said item is an apparent and obvious hazard (electrical, biological, radioactive, etc).
+   Members may choose to utilize our Member Storage area for anything reasonable they wish to leave at the space between visits. Each member is granted, by request, a single large (~20 gallon) clear plastic storage container with a lid. All of Member's storage must fit inside this container, and the lid must be able to close securely. Additionally, the container must be clearly labeled with the Member's name, Member Code (found in the Account section of the website), or both. The container must be stored with the member label visible from the outside. This is the only approved storage container for our Member Storage area. denhac is not responsible for any items left outside Member's storage container, stacked near it, in front of it, on top, etc. In the event we have to reorganize the storage space, we cannot be held liable for the loss or misplacement of any items that Member has not clearly and unambiguously stored within their approved storage container. It is against policy for any Member to take items from another Member's storage unless said item is an apparent and obvious hazard (electrical, biological, radioactive, etc).
 
 **Hackerspace Use**
 
@@ -299,8 +299,8 @@ The following rights and disclaimers apply to denhac and its operations:
 
 8. Members are allowed to bring their own tools into the facility:
    - They are required to clearly denote ownership and maintain their items in designated storage spaces or in accordance with temporary storage policies.
-   - Denhac may limit the use of or disallow member-owned tools at their discretion.
-   - Denhac is not responsible for any aspect of tools brought into the facility, whether on loan or owned by members.
+   - denhac may limit the use of or disallow member-owned tools at their discretion.
+   - denhac is not responsible for any aspect of tools brought into the facility, whether on loan or owned by members.
 
 9. Donations are accepted at the discretion of denhac Agents. Donation forms for tax purposes are available on request from the Treasurer of the organization.
 
@@ -324,14 +324,14 @@ The following general terms apply to denhac and its members:
 
 4. Policies:
    - Member agrees to follow all policies adopted by denhac, including but not limited to policies regarding the use of equipment, services, and facility premises.
-   - Denhac's delay or failure to enforce any policy or rule will not constitute a waiver of denhac's right to enforce it in the future.
+   - denhac's delay or failure to enforce any policy or rule will not constitute a waiver of denhac's right to enforce it in the future.
 
 5. Rights of Publicity:
    - Member grants denhac the right to photograph, videotape, and publish their likeness, projects, and possessions for any purpose.
-   - Denhac is not responsible for photographs taken by members or guests in the facility or at events or gatherings.
+   - denhac is not responsible for photographs taken by members or guests in the facility or at events or gatherings.
 
 6. Surveillance Cameras:
-   - Denhac reserves the right to place surveillance cameras within the facility to monitor certain public areas.
+   - denhac reserves the right to place surveillance cameras within the facility to monitor certain public areas.
    - Only the Board of Directors or designated Agents may have access to security footage.
    - Members may not install recording devices or cameras in the facility without explicit approval from the Board of Directors.
 
@@ -345,7 +345,7 @@ The following general terms apply to denhac and its members:
 9. Entire Agreement:
    - This Agreement constitutes the entire agreement between the parties pertaining to the subject matter hereof, superseding any previous agreements.
    - Agreement to the terms of the membership agreement persists regardless of subsequent changes to the terms.
-   - Denhac will notify members of changes to the Membership Agreement using the contact information provided by the member.
+   - denhac will notify members of changes to the Membership Agreement using the contact information provided by the member.
 
 I agree that I have fully read the Membership Agreement prior to signing up for a Membership, and I am fully aware that by entering into this agreement I am affecting my legal rights.
 
