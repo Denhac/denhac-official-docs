@@ -17,7 +17,7 @@ The following terms will have the stated meanings for purposes of this Agreement
 9. **Bylaws.** The articles established by denhac regarding regulation and proceedings of the organization as a whole, which are [linked here](https://denhac.org/bylaws).
 10. **Wiki.** The collective knowledge base perpetually being built by Members and Agents of denhac, which is [linked here](https://denhac.org/wiki).
 11. **Official Policies.** The policies and procedures of denhac, as approved by the Board of Directors, which is [linked here](https://denhac.org/denhac-official-policies).
-12. **Liability Waiver.** The denhac Waiver, Release of Liability, and Hold Harmless Agreement, which is [linked here](https://docs.google.com/document/d/1tDNfcLfYYVw5msKnuu1cXNdi17F2I_qUTkYIbN2ng-c/edit).
+12. **Liability Waiver.** The denhac Waiver, Release of Liability, and Hold Harmless Agreement, which is [linked here](https://denhac.org/waiver).
 
 **Membership**
 
