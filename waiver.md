@@ -2,7 +2,8 @@
 
 > **tl;dr** – You are entering an area where there are possibly sharp spinny things, heavy things, and unpredictable things, but honestly for the most part it's quite safe. Please be careful while you are here, and write your name at the bottom where you promise not to sue us 🙂
 
-This Release, Indemnification and Hold Harmless Agreement is executed and made effective on the date of submission by denhac ("Releasee"), located at 700 Kalamath Street, Denver, CO 80204 ("the Space"), in favor of and for the benefit of Releasee and all of its officers, directors, employees, lenders, donors, members, guests, volunteers and all other persons or entities acting from them.
+**You agree that you are voluntarily joining or visiting denhac, or participating in a denhac activity with knowledge of the risks of doing so, such as the risks of injury, property damage, or death resulting from the use of potentially dangerous tools or materials, even if these risks or hazards are unknown to you, and/or the active or passive negligence of denhac, A Colorado 501(c)(3) Organization and its officers, directors, employees, lenders, donors, members, guests, instructors, guides, those performing services on denhac's behalf, and all other persons or entities acting from denhac (collectively, “we” or “us”). You release us from all liability, claims, damage, demands, and actions or rights of
+actions which are related to, arise out of, or are any way connected to the individual's involvement, to being a member or guest of denhac or your participation in any denhac activity. You expressly assume these risks.**
 
 IN CONSIDERATION OF the right to enter, use, provide or perform services and/or participate in activities operated by Releasee ("Activity") and for other good, valuable and legal consideration, the receipt and sufficiency of which are acknowledged, the parties agree as follows:
 
@@ -37,5 +38,9 @@ The parties hereby agree that this Agreement is governed by the laws of the Unit
 **8. Rule of Construction.**
 
 Both Releasor and Releasee agree that no rule of construction requiring interpretation against the draftsman of this Agreement shall apply. The confirmed intent of this Agreement is to release the Releasees from any and all claims, known and unknown, past or future, of any cause whatsoever to the fullest extent possible.
+
+**9. Recordings:** 
+
+denhac reserves the right to place cameras within the facility where necessary and appropriate to monitor certain public areas. We record events and daily activity (via audio, visual, or audiovisual media). If we do so, you agree to let us use that footage and/or voice for any purpose. You release denhac, and its licensees from and waive any claims related to or arising by reason of the making and/or use of any such recordings.
 
 IN AGREEING TO THIS RELEASE, RELEASOR ACKNOWLEDGES AND REPRESENTS THAT they have read the foregoing Agreement in full, understand that by signing they are affecting their legal rights, and are signing it voluntarily as their own free act and deed; no oral representations, statements, or inducements, apart from the foregoing written agreement, have been made; they are at least eighteen (18) years of age and fully competent; and they execute this Agreement for full, adequate and complete consideration fully intending to be bound by the same.

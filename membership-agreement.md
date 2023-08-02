@@ -17,12 +17,12 @@ The following terms will have the stated meanings for purposes of this Agreement
 9. **Bylaws.** The articles established by denhac regarding regulation and proceedings of the organization as a whole, which are [linked here](https://denhac.org/bylaws).
 10. **Wiki.** The collective knowledge base perpetually being built by Members and Agents of denhac, which is [linked here](https://denhac.org/wiki).
 11. **Official Policies.** The policies and procedures of denhac, as approved by the Board of Directors, which is [linked here](https://denhac.org/denhac-official-policies).
-12. **Liability Waiver.** The denhac Waiver, Release of Liability, and Hold Harmless Agreement, which is [linked here](https://docs.google.com/document/d/1tDNfcLfYYVw5msKnuu1cXNdi17F2I_qUTkYIbN2ng-c/edit).
+12. **Liability Waiver.** The denhac Waiver, Release of Liability, and Hold Harmless Agreement, which is [linked here](https://denhac.org/waiver).
 
 **Membership**
 
 1. **Agreement, Limitation of Liability & Waiver**
-    All members, guests, and participants enter into this Agreement as a condition of membership and as a part of participating in denhac activities and/or events, and extends to denhac and its affiliates. All members, guests, and participants have read, understood, agreed to and signed [denhac's "Waiver and Release of Liability, Indemnification and Assumption of Risk, and Hold Harmless Agreement"](http://denhac.org/waiver) herein called "Waiver," which will be provided simultaneously with this Membership Agreement prior to the use of facilities and/or attendance at any workshop provided by denhac. No member or non-member is permitted to use the facilities, tools, or machinery for any reason without the acceptance and signing of the Waiver. Acceptance of this Membership Agreement implicitly constitutes acceptance of the waiver as well.
+    All members, guests, and participants enter into this Agreement as a condition of membership and as a part of participating in denhac activities and/or events, and extends to denhac and its affiliates. All members, guests, and participants have read, understood, agreed to, and have signed [denhac's "Waiver and Release of Liability, Indemnification and Assumption of Risk, and Hold Harmless Agreement"](http://denhac.org/waiver) herein called "Waiver," which will be provided simultaneously with this Membership Agreement prior to the use of facilities and/or attendance at any activity of denhac. No member or non-member is permitted to use the facilities, participate in any activity, use tools, or machinery for any reason without the acceptance and signing of the Waiver. Acceptance of this Membership Agreement, entering our facilities, or participating in any activity expressly assumes risks covered in our waiver and implicitly constitutes acceptance of the waiver as well.
 
 2. **Membership Term**
 
