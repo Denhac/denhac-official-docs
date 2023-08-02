@@ -41,6 +41,6 @@ Both Releasor and Releasee agree that no rule of construction requiring interpre
 
 **9. Recordings:** 
 
-denhac reserves the right to place cameras within the facility where necessary and appropriate to monitor certain public areas. We record events and daily activity (via audio, visual, or audiovisual media). If we do so, you agree to let us use that footage and/or voice for any purpose. You release denhac, and its licensees from and waive any claims related to or arising by reason of the making and/or use of any such recordings.
+denhac reserves the right to place cameras within the facility where necessary and appropriate to monitor certain public areas. We record events and daily activity (via audio, visual, or audiovisual media). If we do so, you agree to let us use that footage and/or voice for safety and security purposes. You release denhac, and its licensees from and waive any claims related to or arising by reason of the making and/or use of any such recordings.
 
 IN AGREEING TO THIS RELEASE, RELEASOR ACKNOWLEDGES AND REPRESENTS THAT they have read the foregoing Agreement in full, understand that by signing they are affecting their legal rights, and are signing it voluntarily as their own free act and deed; no oral representations, statements, or inducements, apart from the foregoing written agreement, have been made; they are at least eighteen (18) years of age and fully competent; and they execute this Agreement for full, adequate and complete consideration fully intending to be bound by the same.
