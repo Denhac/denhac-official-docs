@@ -1,11 +1,11 @@
 # denhac Financial Policy
 >[!NOTE]
->Current Version Approved by The Board on December 6, 2023
+>Current Version Approved by The Board on December 6, 2022
 
 ## How We Collect Money
 
 ### Membership Dues:
-When a member registers for a Denhac account, they will save a card on file with our card processor, Stripe. Under our Membership Agreement, a Membership is not considered active until an ID check has been performed. The member will be charged using the card on file with Stripe at the time of Access Card Activation. Membership dues are collected using Stripe on a monthly recurring basis. If we cannot charge the card on file for whatever reason, the member will be notified by Stripe and given four days to update their information. During this time, the member will still have access to the space, but after the failed attempt to charge their card, their membership will be terminated. The member can immediately update their form of payment after their membership termination and purchase a new membership.
+When a member registers for a denhac account, they will save a card on file with our card processor, Stripe. Under our Membership Agreement, a Membership is not considered active until an ID check has been performed. The member will be charged using the card on file with Stripe at the time of Access Card Activation. Membership dues are collected using Stripe on a monthly recurring basis. If we cannot charge the card on file for whatever reason, the member will be notified by Stripe and given four days to update their information. During this time, the member will still have access to the space, but after the failed attempt to charge their card, their membership will be terminated. The member can immediately update their form of payment after their membership termination and purchase a new membership.
 
 Current membership costs are posted in our Membership Agreement. All membership dues of current members will remain the same unless the impacted members are notified of this change within a reasonable amount of time approved by the Board.
 
@@ -45,7 +45,7 @@ When requested by an acting Manager, the Board can approve a recurring operating
 The Treasurer will provide a monthly summary of all active Manager Budgets and their spending funds. The Treasurer will also check in with the acting Manager every ~ six months to ensure the funding is appropriate and will help guide a request to increase or decrease funds. Check-in can be skipped at the Treasurer's discretion.
 
 ### Vending Machine Pool:
-In the case of the Denhac-owned vending machines, a pool of funds will be set aside for stocking, maintenance, and general improvements. This pool will generate its funds through the machines' revenue until the approved cap is reached. Once reached, all collected funds will be added to the general fund. The Treasurer will report on the current funds in the pool monthly.
+In the case of the denhac-owned vending machines, a pool of funds will be set aside for stocking, maintenance, and general improvements. This pool will generate its funds through the machines' revenue until the approved cap is reached. Once reached, all collected funds will be added to the general fund. The Treasurer will report on the current funds in the pool monthly.
 
 The currently approved pool is $1,000.
 
