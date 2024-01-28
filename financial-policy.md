@@ -46,7 +46,7 @@ The Treasurer will provide a monthly summary of all active Manager Budgets and t
 
 ### Special Intrest Group (SIG) Budgets:
 #### Approval:
-When requested by an approved Special Interest Group, the Board can approve a recurring operating fund that the SIG can use at their discretion for their area of business. The Treasurer will confirm if funds are available in the general balance. The scope of the the SIG's charter will determine the area where items can be purchased for.
+When requested by an approved Special Interest Group, the Board can approve a recurring operating fund that the SIG can use at their discretion for their area of business. The Treasurer will confirm if funds are available in the general balance. The scope of the SIG's charter will determine the area where items can be purchased for.
 
 #### Updates:
 The Treasurer will provide a monthly summary of all active SIG Budgets and their spending. The Treasurer will also check in with the acting SIG Leaders every ~ three (3) months to ensure the funding is appropriate and will help guide a request to increase or decrease funds. Check-in can be skipped at the Treasurer's discretion.
