@@ -42,7 +42,14 @@ A project will be considered abandoned when no funds have been dispersed after 9
 When requested by an acting Manager, the Board can approve a recurring operating fund that a Manager can use at their discretion for their area of business. The Treasurer will confirm if funds are available in the general balance.
 
 #### Updates:
-The Treasurer will provide a monthly summary of all active Manager Budgets and their spending funds. The Treasurer will also check in with the acting Manager every ~ six months to ensure the funding is appropriate and will help guide a request to increase or decrease funds. Check-in can be skipped at the Treasurer's discretion.
+The Treasurer will provide a monthly summary of all active Manager Budgets and their spending. The Treasurer will also check in with the acting Manager every ~ six (6) months to ensure the funding is appropriate and will help guide a request to increase or decrease funds. Check-in can be skipped at the Treasurer's discretion.
+
+### Special Intrest Group (SIG) Budgets:
+#### Approval:
+When requested by an approved Special Interest Group, the Board can approve a recurring operating fund that the SIG can use at their discretion for their area of business. The Treasurer will confirm if funds are available in the general balance. The scope of the the SIG's charter will determine the area where items can be purchased for.
+
+#### Updates:
+The Treasurer will provide a monthly summary of all active SIG Budgets and their spending. The Treasurer will also check in with the acting SIG Leaders every ~ three (3) months to ensure the funding is appropriate and will help guide a request to increase or decrease funds. Check-in can be skipped at the Treasurer's discretion.
 
 ### Vending Machine Pool:
 In the case of the denhac-owned vending machines, a pool of funds will be set aside for stocking, maintenance, and general improvements. This pool will generate its funds through the machines' revenue until the approved cap is reached. Once reached, all collected funds will be added to the general fund. The Treasurer will report on the current funds in the pool monthly.
@@ -66,4 +73,10 @@ For reimbursement to be approved, the following will be required:
 - Total Amount to be reimbursed
 - Paypal address or preferred reimbursement method
 
-**A receipt will be required for all reimbursements with no exceptions.**
+Additionally, all receipts should be provided to the Treasurer within a reasonable timeframe:
+- Project Funds: 30 days from the date of purchase or before noon on the last business Friday of the Fiscal Year (whichever is sooner)
+- Monthly Budgets: 30 days from the date of purchase if a Stripe Card was used, before the end of the month if a reimbursement is required, or before noon on the last business Friday of the Fiscal Year (whichever is sooner)
+
+If a receipt can not be provided in a reasonable timeframe, please email Treasurer@denhac.org so they are aware. If this deadline is continually missed, the Treasurer will work with the Board to determine appropriate action including, but not limited to, removing a member's ability to spend money on behalf of denhac. 
+
+**A receipt will be required for all transactions or reimbursements with no exceptions.**
