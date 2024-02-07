@@ -1,6 +1,6 @@
 # denhac Financial Policy
 >[!NOTE]
->Current Version Approved by The Board on December 6, 2022
+>Current Version Approved by The Board on February 6, 2024
 
 ## How We Collect Money
 
@@ -44,7 +44,7 @@ When requested by an acting Manager, the Board can approve a recurring operating
 #### Updates:
 The Treasurer will provide a monthly summary of all active Manager Budgets and their spending. The Treasurer will also check in with the acting Manager every ~ six (6) months to ensure the funding is appropriate and will help guide a request to increase or decrease funds. Check-in can be skipped at the Treasurer's discretion.
 
-### Special Intrest Group (SIG) Budgets:
+### Special Interest Group (SIG) Budgets:
 #### Approval:
 When requested by an approved Special Interest Group, the Board can approve a recurring operating fund that the SIG can use at their discretion for their area of business. The Treasurer will confirm if funds are available in the general balance. The scope of the SIG's charter will determine the area where items can be purchased for.
 
