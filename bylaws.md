@@ -31,14 +31,25 @@
 5. Board members may lose their board seat by a supermajority vote of the board, but without affecting their current membership status.
 
 # ARTICLE IV. Officers
+
+## Section 1. Officers of the Board
 1. The Officers of the Board shall consist of a Chair, Vice-Chair, and Secretary, nominated by the Board.
-2. Approval shall be accomplished by majority vote of the Board of Directors. 
+2. Approval shall be accomplished by a majority vote of the Board of Directors. 
 3. Officers shall be elected during a special executive session to be held immediately following a regular election.
 4. Elected officers will serve until the next election. Officer vacancies will be filled during the next possible board meeting.
 5. Responsibilities
 	- The Chair shall preside at all Board meetings, appoint committee members, publish the board meeting agendas, and perform other duties as associated with the position.
 	- The Vice-Chair shall assume the duties of the Chair in case of the Chair’s absence or incapacitation. The Vice-Chair shall also preside over committee meetings.
 	- The Secretary shall be responsible for the minutes of the Board, keep all approved minutes in a secure location, and send out copies of minutes to the members.
+
+## Section 2. Officers of the Business
+1. The Officers of the Business shall consist of a Treasurer, appointed by and serving at the pleasure of the Board.
+2. Any members in good standing can hold a position as an Office of the Business.
+3. Approval shall be accomplished by a majority vote of the Board of Directors during in a board meeting.
+4. Officers may remove themselves from office after providing 30 days of notice to the Board of Directors so that offboarding of responsibilities can be performed.
+5. Officer vacancies will be filled during the next possible board meeting.
+6. Responsibilities
+ 	- The Treasurer shall be responsible for general financial oversight, fiscal planning, bookkeeping, financial reporting, and other duties as associated with the position or defined in official policy.
 
 # ARTICLE V. Committees
 1. The Board may appoint standing and ad hoc committees as needed. Committee meetings are managed by the Vice-Chair.
