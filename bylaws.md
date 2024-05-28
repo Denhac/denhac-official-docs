@@ -34,8 +34,8 @@
 
 ## Section 1. Officers of the Board
 1. The Officers of the Board shall consist of a Chair, Vice-Chair, and Secretary, nominated by the Board.
-2. Approval shall be accomplished by a majority vote of the Board of Directors. 
-3. Officers shall be elected during a special executive session to be held immediately following a regular election.
+2. Officers shall be elected during a special executive session to be held immediately following a regular election.
+3. Approval shall be accomplished by a majority vote of the Board of Directors.
 4. Elected officers will serve until the next election. Officer vacancies will be filled during the next possible board meeting.
 5. Responsibilities
 	- The Chair shall preside at all Board meetings, appoint committee members, publish the board meeting agendas, and perform other duties as associated with the position.
