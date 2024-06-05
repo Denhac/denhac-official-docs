@@ -43,12 +43,12 @@
 	- The Secretary shall be responsible for the minutes of the Board, keep all approved minutes in a secure location, and send out copies of minutes to the members.
 
 ## Section 2. Officers of the Business
-1. The Officers of the Business shall consist of a Business Manager and Tresurer, appointed by and serving at the pleasure of the Board.
+1. The Officers of the Business shall consist of a Business Manager and Treasurer, appointed by and serving at the pleasure of the Board.
 2. Any members in good standing can hold a position as an Office of the Business.
 3. Approval shall be accomplished by a majority vote of the Board of Directors.
 4. In the case of a vacancy, an Officer of the Board will assume the responsibility of the role until the vacancy can be filled.
 5. Responsibilities
-	 - The Business Manager shall be responsible for creating and maintaining business to business relationships for the orginization (including but not limited to: insurance, utilities, other hacker/maker-spaces, conventions/conferences) and other duties as associated with the position or defined in official policy.
+	 - The Business Manager shall be responsible for creating and maintaining business-to-business relationships for the organization (including but not limited to insurance, utilities, other hacker/maker spaces, conventions/conferences) and other duties as associated with the position or defined in official policy.
 	 - The Treasurer shall be responsible for general financial oversight, fiscal planning, bookkeeping, financial reporting, and other duties as associated with the position or defined in official policy.
 
 
