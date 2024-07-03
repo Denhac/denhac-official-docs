@@ -1,8 +1,8 @@
 # Laser Cutting Special Interest Group Charter
 
-_Updated: 2024-06-25_
+_Updated: 2024-07-02_
 
-_Approved: 0000-00-00_
+_Approved: 2024-07-02_
 
 ## Purpose
 The denhac Laser Cutting Special Interest Group (SIG) exists to coordinate and steward the activities in the laser cutting area of denhac. This SIG is responsible for the maintenance, governance, and administration of the laser cutting equipment, resources, and space at denhac. The SIG advocates for the needs of laser cutter users within denhac and seeks to enrich the organization as a whole by providing opportunities for all members to learn and make new things with laser cutters.
@@ -38,11 +38,9 @@ This section is to identify what actions and functions at denhac the SIG should 
 
 ## Roles
 ### SIG Leads
-A group of two or three SIG Co-Leads form the group of SIG Leads for the Laser Cutting SIG. All SIG Leads must themselves be authorized Laser Cutter Trainers.
-
 The description of these roles here is in addition to the description and expectations of SIG Leads contained within the official denhac ["SIGs @ denhac"](https://github.com/Denhac/denhac-official-docs/blob/main/sigs.md) policy.
 
-The SIG Co-Leads MAY choose to designate one SIG Co-Lead as the SIG Captain for the sake of reducing ambiguity. A SIG Captain designation indicates that the individual is responsible by default, or "when-in-doubt", for performing, managing, and delegating SIG leadership tasks. However, all SIG Leads share equal decision-making authority and thus also share equal SIG governance responsibilities and accountability. SIG Leads should aim for consensus decision-making and put decisions to a vote only when disagreements persist.
+All Laser Cutter SIG Leads must themselves be authorized Laser Cutter Trainers. The number of Leads, selection of Leads, term limits of Leads, etc., will be in accordance with the ["SIGs @ denhac"](https://github.com/Denhac/denhac-official-docs/blob/main/sigs.md) organization-wide policy.
 
 ### Positions of Trust
 Laser Cutter Trainers and Laser Cutter Maintainers are roles that require access to privileged infrastructure functions (such as Slack commands) or require access to restricted equipment (such as laser tubes) within denhac. As such, these roles should be considered Positions of Trust.
@@ -64,3 +62,4 @@ The Laser Cutting SIG will meet once per month unless canceled due to no agenda 
 
 ## Budget
 The SIG requests a monthly recurring budget from the Board for common consumables and maintenance items used by the laser cutting area such as: cleaning supplies, q-tips, isopropyl alcohol, distilled water, chain lube, and laser-safe transfer tape.
+
