@@ -11,7 +11,7 @@ The CNC SIG will be led by an elected Main SIG Lead, two elected Co-Leads, and a
 General responsibilities for these Roles (this is not an exhaustive list):
 
 * The Main SIG Lead will be generally responsible for SIG project management and/or delegation of these responsibilities, as well as the general governance of the group's actions at large.
-* Laser SIG Co-Leads will assist the Main SIG Lead as directed, and are responsible for the appointments of properly qualified Maintainers and Trainers, as well as providing any extended training required for both.
+* SIG Co-Leads will assist the Main SIG Lead as directed, and are responsible for the appointments of properly qualified Maintainers and Trainers, as well as providing any extended training required for both.
 * Maintainers will support the Co-Leads in matters regarding the upkeep and management of machines.
 * Trainers will be responsible for authorizing members to use the machines safely and providing assistance with machine usage when appropriate.
 * There is not a fixed number of Maintainer and Trainer positions available; they are filled based on demonstrated skill, merit, enthusiasm, and member demand for the machines.
@@ -57,4 +57,4 @@ Official SIG communication will be conducted through the denhac Slack workspace 
 
 ## Meetings
 
-Meetings will be organized on Slack, appear on the Google Calendar, and will be held at least once a month. Meetings will be conducted at denhac whenever possible or perhaps remotely via video conference. Any active denhac member with a special interest in denhac's laser cutting facilities is invited to attend, and any denhac member can elect to be a member of the SIG by simply joining the #sig-cnc slack channel.
+Meetings will be organized on Slack, appear on the Google Calendar, and will be held at least once a month. Meetings will be conducted at denhac whenever possible or perhaps remotely via video conference. Any active denhac member with a special interest in denhac's CNC router facilities is invited to attend, and any denhac member can elect to be a member of the SIG by simply joining the #sig-cnc slack channel.
