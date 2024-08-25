@@ -2,7 +2,7 @@
 
 The CNC SIG is responsible for the maintenance, governance, and administration of the CNC routers, adjacent equipment, and space at denhac.
 
-The group will respond to requests from denhac members for future needs and will help create recommendations to the board that require funding in excess of the budget detailed in this charter.
+The group will respond to requests from denhac members for future needs and will help create recommendations to the board that require funding in excess of the budget provided to the SIG by the denhac board of directors.
 
 ## Roles and Responsible Parties
 
