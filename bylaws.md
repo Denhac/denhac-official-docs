@@ -25,10 +25,9 @@
 
 ## Section 4. Vacancies
 1. When a vacancy arises during the middle of a term, the denhac Members will select by majority vote a replacement director to serve for the remainder of the departing director’s term. In the event of two or more directors departing, the incoming directors will fill the vacated terms. Directors with more votes will fill the vacancies with longer remaining terms respectively.
-2. Nominations for Directors to replace a Director whose term is ending for any reason may come from the Board or from the Members, at a meeting designated expressly for such purpose.
-3. A General Election will be held within 15 days of any event causing the Board of Directors to have 3 or fewer members.
-4. Board members who are considered to have fallen out of good standing shall be dismissed from the board.
-5. Board members may lose their board seat by a supermajority vote of the board, but without affecting their current membership status.
+2. A General Election will be held within 15 days of any event causing the Board of Directors to have 3 or fewer members.
+3. Board members who are considered to have fallen out of good standing shall be dismissed from the board.
+4. Board members may lose their board seat by a supermajority vote of the board, but without affecting their current membership status.
 
 # ARTICLE IV. Officers
 
