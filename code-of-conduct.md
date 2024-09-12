@@ -12,21 +12,33 @@ We expect everyone involved in our community to follow this code of conduct. Thi
 
 We do not tolerate harassment of people at our events or space in any form. 
 
+
+We do not seek to list all cases of unacceptable behavior, but provide examples to help guide our community in thinking through how to respond when we experience these types of behavior, whether directed at ourselves or others. 
+
+Some guidelines on appropriate behavior:
+
+* If you are unsure if something is appropriate behavior, err on the side of caution. 
+* Each person you interact with can define what is appropriate for them. 
+* Impact matters more than intent. 
+* It is your responsibility to ensure that your behavior does not have a negative impact.
+* Problems happen when we assume that our way of thinking or behaving is the norm or ok with everyone. This is particularly problematic when we are in a position of power or privilege.
+
 Behavior considered as harassment includes, but is not limited to:
 
 1. Offensive comments including epithets, slurs, negative stereotyping, verbal kidding, teasing, jokes, or intimidating acts related to race, religion, gender, gender identity and expression, sexual orientation, disability, or physical appearance. Consider that calling attention to differences can feel alienating.
 2. Gratuitous sexual or obscene objects, images, discussions, or behavior.
-3. Physical contact, romantic advances, or sexual attention that continues after a request to stop or "no" response.
-4. Subtle or explicit demands for sexual activity.
-5. Verbal abuse.
-6. Threats or incitement of violence towards any individual, including encouraging a person to engage in self-harm
-7. Deliberate intimidation by words, gestures, body language, or menacing behavior
-8. Stalking
-9. Harassing photography or recording, including logging online activity for harassment purposes
-10. Continued one-on-one contact or communication after requests to cease
-11. Deliberate “outing” of a sensitive aspect of a person’s identity without their consent
-12. Deliberate misgendering. This includes dead-naming or persistently using a pronoun that does not correctly reflect a person’s gender identity
-13. Retaliating against anyone who files a complaint that someone has violated this code of conduct 
+3. Physical contact, romantic advances, or sexual attention that continues after a request to stop or a negative/"no" response.
+4. Physical contact or sexual attention that does not receive informed and voluntary consent in advance.
+5. Subtle or explicit demands for sexual activity.
+6. Verbal abuse.
+7. Threats or incitement of violence towards any individual, including encouraging a person to engage in self-harm
+8. Deliberate intimidation by words, gestures, body language, or menacing behavior
+9. Stalking
+10. Harassing photography or recording, including logging online activity for harassment purposes
+11. Continued one-on-one contact or communication after requests to cease
+12. Deliberate outing/sharing of a sensitive aspect of a person’s identity without their consent
+13. Deliberate misgendering. This includes dead-naming or persistently using a pronoun that does not correctly reflect a person’s gender identity
+14. Retaliating against anyone who files a complaint that someone has violated this code of conduct 
 
 # How to submit a harassment report
 Reports should be submitted in writing on Slack or via denhac.org email to any member of our Board of Directors, listed at https://denhac.org/wiki/the-board; the entire board is also available via email at board@denhac.org. If your report is given to a single member of the Board, they will ask to pull in a second board member of your choice, to share the detailed context of the issue in order to better represent it to the rest of the board and help address the issue.
