@@ -22,6 +22,6 @@ Board members should collect the following standard information when receiving a
   * When?
   * Where?
   * How?
-* If there is any action you'd like to request that the board takes in response to this specific incident - let us know here.
+* If there is any action you'd like to request that the board takes in response to this specific incident - let us know here. It may not be possible to take this action exactly as described, but we would like to respect your autonomy as much as we can in resolving this incident.
 * Please share any additional suggestions you have about how to prevent issues like this from happening.
 
