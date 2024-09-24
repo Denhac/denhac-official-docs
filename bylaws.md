@@ -93,6 +93,6 @@
 1. A member in Good Standing is defined as someone who:
 	- Has paid dues on time as defined by the denhac Membership Agreement.
 	- Is not actively subject to disciplinary action. 
-2. A Simple majority vote is a vote where more than 50% of all board members must vote in favor of the motion.
+2. A Simple majority vote is a vote where more than 50% of all board members vote in favor of the motion.
 3. A Supermajority vote is a vote where at least five (5) out of the seven (7) board members vote in favor of the motion.
 4. A majority of Board members present for a designated Board Meeting, physically or electronically, shall constitute a quorum.
