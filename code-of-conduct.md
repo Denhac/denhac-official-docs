@@ -12,16 +12,6 @@ We, the denhac Board of Directors, expect everyone involved in our community to 
 
 denhac does not tolerate harassment of people at our events or space in any form. 
 
-This document does not seek to list all cases of unacceptable behavior, but provides examples to help guide our community in thinking through how each of us can respond when we experience these types of behavior, whether directed at ourselves or others. 
-
-Some guidelines on appropriate behavior:
-
-* If you are unsure if something is appropriate behavior, err on the side of caution. 
-* Each person you interact with can define what is appropriate for them. 
-* Impact matters more than intent. 
-* It is your responsibility to ensure that your behavior does not have a negative impact.
-* Problems happen when we assume that our way of thinking or behaving is the norm or ok with everyone. This is particularly problematic when we are in a position of power or privilege.
-
 Behavior considered as harassment includes, but is not limited to:
 
 1. Offensive comments including epithets, slurs, negative stereotyping, verbal kidding, teasing, jokes, or intimidating acts related to race, religion, gender, gender identity and expression, sexual orientation, disability, or physical appearance. Consider that calling attention to differences can feel alienating.
