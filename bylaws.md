@@ -24,11 +24,10 @@
 6. In the event of having fewer nominations than vacancies, the vacancy rules will apply.
 
 ## Section 4. Vacancies
-1. When a vacancy arises during the middle of a term, the denhac Members will select by majority vote a replacement director to serve for the remainder of the departing director’s term. In the event of two or more directors departing, the incoming directors will fill the vacated terms. Directors with more votes will fill the vacancies with longer remaining terms respectively.
-2. Nominations for Directors to replace a Director whose term is ending for any reason may come from the Board or from the Members, at a meeting designated expressly for such purpose.
-3. A General Election will be held within 15 days of any event causing the Board of Directors to have 3 or fewer members.
-4. Board members who are considered to have fallen out of good standing shall be dismissed from the board.
-5. Board members may lose their board seat by a supermajority vote of the board, but without affecting their current membership status.
+1. When a vacancy arises during the middle of a term, the denhac Members will select by majority vote a replacement director to serve for the remainder of the departing director’s term. In the event of two or more directors departing, the incoming directors will fill the vacated terms. Directors with more votes will fill the vacancies with longer remaining terms respectively. Vacancies may also be filled as part of the general election process.
+2. A General Election will be held within 15 days of any event causing the Board of Directors to have 3 or fewer members.
+3. Board members who are considered to have fallen out of good standing shall be dismissed from the board.
+4. Board members may lose their board seat by a supermajority vote of the board, but without affecting their current membership status.
 
 # ARTICLE IV. Officers
 
@@ -94,6 +93,6 @@
 1. A member in Good Standing is defined as someone who:
 	- Has paid dues on time as defined by the denhac Membership Agreement.
 	- Is not actively subject to disciplinary action. 
-2. A Simple majority vote is a vote where more than 50% of the board members must vote in favor of the motion. The Chair does not cast a vote except in the case of a tie
-3. A Supermajority vote is a vote where at least five (5) out of the seven (7) board members vote in favor of the motion
+2. A Simple majority vote is a vote where more than 50% of all board members vote in favor of the motion.
+3. A Supermajority vote is a vote where at least five (5) out of the seven (7) board members vote in favor of the motion.
 4. A majority of Board members present for a designated Board Meeting, physically or electronically, shall constitute a quorum.
