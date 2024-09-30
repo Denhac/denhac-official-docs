@@ -5,7 +5,7 @@
 
 Our code of conduct covers the minimum standards for behavior at denhac, what behavior is unacceptable, and what happens when potentially unacceptable behavior is reported to the board of directors. This official policy document is meant as an additional document covering "best practices". In general, the idea is that denhac members and visitors aren't constantly toeing the line of acceptability and asking the board to adjudicate every interpersonal dispute, but are instead trying to be actively good to one another and avoid getting to the point where disputes become harassment. 
 
-This document lists examples to help guide our community in thinking through how each of us can respond to potential issues, and how we can react when we experience potentially unacceptable behavior, whether directed at ourselves or others. 
+This document lists examples to help guide our community in thinking through how each of us can respond to potential issues, and how we can react when we experience potentially unacceptable behavior, whether directed at ourselves or others. If we all follow the guidelines in this document, it is less likely that anyone will need to use our anti-harassment policies, and more likely that we can succeed in our attempts to be good to one another.
 
 ## The short version
 
@@ -19,7 +19,7 @@ Some guidelines on behavior:
 
 ### Seeking and receiving informed consent in advance
 
-Our code of conduct states that repeated behavior after being told to stop is prohibited (though we do call out touch and romantic/sexual behaviors as especially risky), and for the behaviors in that list where it is possible to receive consent in advance, you need to receive consent first. This is something that can be done in many small ways through all interactions, not just with a predefined list of risky behaviors.
+Our code of conduct states that repeated behavior towards another member after being told to stop is prohibited (though we do call out touch and romantic/sexual behaviors as especially risky), and for the behaviors in that list where it is possible to receive consent in advance, you need to receive consent first. This is something that can be done in many small ways through all interactions, not just with a predefined list of risky behaviors.
 
 Examples in practice: If you want to make a joke about yourself, are you sure there's nobody there who could think it was a harmful comment about them - how would you know? There are many opportunities in a conversation to get a small positive signal that other people feel comfortable, a quick question that allows someone to know if they want to opt out doesn't have to be a large ordeal. 
 
