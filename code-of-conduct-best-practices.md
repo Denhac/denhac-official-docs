@@ -48,4 +48,6 @@ While denhac operates as a volunteer organization with minimal hierarchy, societ
 
 Questions to ponder: Have you ever had someone assume you were new to something when you were an expert? Or that you knew what you were doing when really you didn't? Have you ever felt singled out by this?
 
-Examples in practice: When attempting to give unsolicited advice, consider if your advice is objectively correct (e.g., safety concern) or if it is your opinion (e.g., how you would carry out a specific task). Be mindful about giving unsolicited advice by first asking if the advice is wanted and by considering if you're the right person or the only person to give this advice.
+Examples in practice:
+* When attempting to give unsolicited advice, consider if your advice is objectively correct (e.g., safety concern) or if it is your opinion (e.g., how you would carry out a specific task). Be mindful about giving unsolicited advice by first asking if the advice is wanted and by considering if you're the right person or the only person to give this advice.
+* If you are in a position that has some power, such as a SIG trainer, be aware of how your actions may be perceived as powerful or as intimidating. Instead of scheduling a last-minute training, could you include more people by scheduling in advance? Think about what times of day are most inclusive for a newcomer or someone less comfortable with the space.
