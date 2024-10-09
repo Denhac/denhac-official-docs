@@ -2,9 +2,9 @@
 
 denhac does not promote or discriminate against any person, population group, or organization with regard to categories protected by applicable United States law. These include, but are not limited to race, color, religion, sex, gender expression, sexuality, physical appearance, language, education background, national origin, age, disability, and veteran status.
 
-denhac strives to create an inclusive environment where everyone can feel welcome and respected in our space. While there is not a formal hierarchy here as in a workplace, everyone comes into our space with their own different histories and social norms. We on the Board of Directors expect you to both communicate with each other about the boundaries/limits you wish to hold, and respect when someone else communicates a boundary with you. If a boundary is clearly expressed to you (whether in person, over Slack messages, or via other means), and you deliberately overstep that boundary, it will be treated as a violation of our anti-harassment policy. Initial communication of a boundary can be done without direct board member support in most cases, but please reach out to any member of the Board of Directors if you would like support of any kind in any phase of the process of boundary setting. 
+denhac strives to create an inclusive environment where everyone can feel welcome and respected in our space. While there is not a formal hierarchy here as in a workplace, everyone comes into our space with their own different histories and social norms. We on the Board of Directors expect members to both communicate with each other about the boundaries/limits you each wish to hold, and respect when someone else communicates a boundary with you. If a member deliberately oversteps a boundary that is clearly expressed to them (whether in person, over Slack messages, or via other means) it will be treated as a violation of our anti-harassment policy and the board may need to take disciplinary action, if relevant. Initial communication of a boundary can be done without direct board member support in most cases, but please reach out to any member of the Board of Directors if you would like support of any kind in any phase of the process of boundary setting.
 
-If you feel that you have been harassed at denhac or if someone has made you uncomfortable (even if you aren’t sure if it’s harassment), we on the Board of Directors encourage you to follow the reporting procedure in our code of conduct. Everyone can help make denhac better, and creating a safe environment for you is important to making denhac better. Board members can’t act to officially address potential issues if we aren’t made aware of them.
+If you feel that you have been harassed at denhac or if someone has made you uncomfortable (even if you aren’t sure if it’s harassment), we on the Board of Directors encourage you to follow the reporting procedure in our code of conduct. Everyone can help make denhac better, and creating a safe environment for everyone is important to making denhac better. Board members can’t act to officially address potential issues if we aren’t made aware of them.
 
 # Code of conduct and anti-harassment policy
 
@@ -41,10 +41,11 @@ denhac reserves the right to terminate any membership at any time for any reason
 * The member will get a verbal warning from a Director or a Manager.
 * The member will be called before the Board to explain and/or discuss the behavior in question, usually within Executive Session.
 * The member will receive a formal Warning, via letter or email, signed by a board member.
-* The member will be put on probation and removed from good standing.
-* Membership will be suspended for a predefined length of time, often until the next public board meeting. This can be done by any one board member or manager if there is a safety concern.
-* Membership will be terminated indefinitely, often called a "ban". This can usually only be done by public board vote.
+* The member will be put on probation.
+* Membership will be suspended for a length of time.
+* Membership will be terminated.
 
 Note that some offenses – such as non-payment of dues, or negligence leading to danger to our members or physical space – can trigger automatic membership suspension or termination, without a formal review by the Board.
+Definitions of suspension and termination can be found in our [membership agreements](https://github.com/Denhac/denhac-official-docs/blob/main/membership-agreement.md).
 
 *Thank you to Geek Feminism Wiki for their [detailed code of conduct documentation](https://geekfeminism.fandom.com/wiki/Code_of_conduct_evaluations).*

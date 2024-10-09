@@ -3,7 +3,7 @@
 
 ## Purpose
 
-This document outlines best practices for behavior at denhac, complementing our existing code of conduct. It emphasizes each member's responsibility to assess their intent, action, and impact. The code of conduct establishes minimum standards for acceptable conduct, identifies unacceptable behavior, and describes the procedures for reporting such behavior to the board of directors. denhac's goal is to foster a positive environment where members and visitors engage constructively, minimizing conflicts and preventing harassment.
+This document outlines best practices for behavior at denhac, complementing our existing code of conduct. It emphasizes each member's responsibility to assess their intent, action, and impact. The code of conduct establishes minimum standards for acceptable conduct, identifies unacceptable behavior, and describes the procedures for reporting such behavior to the board of directors. denhac's goal is to foster a positive environment where members and visitors engage constructively, minimizing conflicts and preventing harassment. This document does not need board vote for modification and is superseded by the Code of Conduct if the two are in conflict. 
 
 ## Summary of Guidelines
 
