@@ -24,7 +24,7 @@ Behavior considered as harassment includes, but is not limited to:
 8. Deliberate intimidation by words, gestures, body language, or menacing behavior
 9. Stalking
 10. Harassing photography or recording, including logging online activity for harassment purposes
-11. Continued one-on-one contact or communication after active requests to cease, multiple instances of no response, or other indicators of a lack of consent
+11. Continued one-on-one contact or communication after active requests to cease or other indicators of a lack of consent (such as a pattern of sending multiple long messages that are not necessary to space operations and that receive no response)
 12. Deliberate outing/sharing of a sensitive aspect of a person’s identity without their consent
 13. Deliberate misgendering. This includes dead-naming or persistently using a pronoun that does not correctly reflect a person’s gender identity.
 14. Retaliating against anyone who files a complaint that someone has violated this code of conduct 
