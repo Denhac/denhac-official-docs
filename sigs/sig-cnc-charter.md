@@ -6,12 +6,12 @@ The group will respond to requests from denhac members for future needs and will
 
 ## Roles and Responsible Parties
 
-The CNC SIG will be led by an elected Main SIG Lead, two elected Co-Leads, and a group of appointed Trainers/Maintainers. Elections shall follow the denhac board elections, with the Main SIG lead being relected in October and the Co-Leads being relected in April. Any and all denhac members with a special interest in CNC will be allowed a vote, but the outcome of this election may be superceded by the denhac board of directors via a supermajority vote.
+The CNC SIG will be led by two Co-Leads, and a group of appointed Trainers/Maintainers. 
 
 General responsibilities for these Roles (this is not an exhaustive list):
 
-* The Main SIG Lead will be generally responsible for SIG project management and/or delegation of these responsibilities, as well as the general governance of the group's actions at large.
-* SIG Co-Leads will assist the Main SIG Lead as directed, and are responsible for the appointments of properly qualified Maintainers and Trainers, as well as providing any extended training required for both.
+* The SIG Co-lLads will be generally responsible for SIG project management and/or delegation of these responsibilities, as well as the general governance of the group's actions at large.
+* SIG Co-Leads are responsible for the appointments of properly qualified Maintainers and Trainers, as well as providing any extended training required for both.
 * Maintainers will support the Co-Leads in matters regarding the upkeep and management of machines.
 * Trainers will be responsible for authorizing members to use the machines safely and providing assistance with machine usage when appropriate.
 * There is not a fixed number of Maintainer and Trainer positions available; they are filled based on demonstrated skill, merit, enthusiasm, and member demand for the machines.
@@ -26,10 +26,11 @@ The CNC SIG exists to facilitate safe and effective usage of the CNC routing equ
 * Maintaining denhac-owned CNC routers and associated hardware including the computing infrastructure required to operate the machines
 * Resources for use and maintenance specific to the CNC routers such as workholding, calibration tools, etc
 * Project support and collaboration with other sigs and future denhac events
-* Maintenance and Improvements to the CNC routers and related space within denhac
+* Maintenance and Improvements to the CNC routers (Shapeoko 5 Pro, Space Owned CNC Mill/Routers) and related space within denhac
 * Responding to and managing the use of donated CNC routers and equipment
 * Responding to and managing the use of member-owned CNC routing equipment on loan to denhac
 * Addressing membership concerns and questions specific to equipment within the CNC router area
+* Disciplinary measures such as removal of CNC authorization or related privileges
 * Managing the spending and allocation of SIG funds, as well as coordinating Board Requests for additional funds
 * Creating and teaching a comprehensive curriculum regarding safe and effective usage of the CNC routers to all interested and permitted members
 * Defining the required knowledge needed for Authorized Trainers and Maintainers, as well as providing this knowledge to certify denhac members as Trainers and Maintainers of the CNC routers when appropriate
@@ -39,7 +40,6 @@ The CNC SIG exists to facilitate safe and effective usage of the CNC routing equ
 
 * Maintenance and upkeep of member-owned CNC machines that aren't for use by denhac members
 * Member-owned materials
-* Disciplinary measures such as removal of CNC authorization or related privileges
 * Anything not specifically listed as In-Scope, or as determined by the SIG Leads
 
 ## Organization Management
