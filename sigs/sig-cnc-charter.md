@@ -10,7 +10,7 @@ The CNC SIG will be led by two Co-Leads, and a group of appointed Trainers/Maint
 
 General responsibilities for these Roles (this is not an exhaustive list):
 
-* The SIG Co-lLads will be generally responsible for SIG project management and/or delegation of these responsibilities, as well as the general governance of the group's actions at large.
+* The SIG Co-Leads will be generally responsible for SIG project management and/or delegation of these responsibilities, as well as the general governance of the group's actions at large.
 * SIG Co-Leads are responsible for the appointments of properly qualified Maintainers and Trainers, as well as providing any extended training required for both.
 * Maintainers will support the Co-Leads in matters regarding the upkeep and management of machines.
 * Trainers will be responsible for authorizing members to use the machines safely and providing assistance with machine usage when appropriate.
