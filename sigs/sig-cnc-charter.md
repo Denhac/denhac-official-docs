@@ -15,7 +15,6 @@ General responsibilities for these Roles (this is not an exhaustive list):
 * Maintainers will support the Co-Leads in matters regarding the upkeep and management of machines.
 * Trainers will be responsible for authorizing members to use the machines safely and providing assistance with machine usage when appropriate.
 * There is not a fixed number of Maintainer and Trainer positions available; they are filled based on demonstrated skill, merit, enthusiasm, and member demand for the machines.
-* When changing leadership, responsibilities should be officially transitioned to the new party on the first day of the month following an election for new leadership, or as privately discussed between the previous and incoming leadership.
 
 ## Scope of the CNC SIG
 
@@ -44,7 +43,7 @@ The CNC SIG exists to facilitate safe and effective usage of the CNC routing equ
 
 ## Organization Management
 
-SIG decisions will officially be made by majority vote between the SIG leads who should strongly take into consideration the sentiments of any denhac member with a special interest in the CNC routers on site, while ultimately acting in the best interests of denhac as a whole. SIG leads are encouraged to make decisions using majority votes from CNC SIG members. Decisions made by the CNC SIG leads can always be overridden by the denhac board of directors.
+SIG decisions will be made by the SIG leads, who should strongly take into consideration the sentiments of any denhac member with a special interest in the CNC routers on site, while ultimately acting in the best interests of denhac as a whole. SIG leads are encouraged to make decisions using majority votes from CNC SIG members. Decisions made by the CNC SIG leads can always be overridden by the denhac board of directors.
 
 Amendments to this charter can be made during group meetings by vote between SIG members and Leads, or by the denhac board of directors at any time according to the rules in place for modifications to denhac's own bylaws.
 
