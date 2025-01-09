@@ -1,3 +1,7 @@
+# Please copy changes here into membership-agreement.md
+# Please update the membership agreement on the WP site after merge
+
+
 # Non-discrimination and diversity statement
 
 denhac does not promote or discriminate against any person, population group, or organization with regard to categories protected by applicable United States law. These include, but are not limited to race, color, religion, sex, gender expression, sexuality, physical appearance, language, education background, national origin, age, disability, and veteran status.
