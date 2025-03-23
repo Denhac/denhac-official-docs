@@ -19,6 +19,11 @@ Therefore, any electronic files, including information received on line, that fa
 ## III. Record Retention
 denhac follows the document retention procedures outlined below.
 Documents that are not listed, but are substantially similar to those listed in the schedule will be retained for the appropriate length of time. 
+denhac will subscribe to the 3-2-1 principle of data protection which is derfined as three copys of all data being retained (one primary, two backups), on atleast two diffrent forms of media, with at least one copy being secured in off-site storage. 
+Although this practice may change by direction of the Treasurer or individual designated by the Chairperson of the Board, the initial practice of retention will be as follows:
+  - 3. Google Drive (Primary), Local Network Storage (Backup-1), External Storage Media (Backup-2)
+  - 2. Cloud Storage, Local Network Storage, Extrnal Storage Drive 
+  - 1. External Storage Drive which will be secured in a safety deposit box accessible by the Treasurer and Chairperson. 
 
 ### A. Permanent Retention
 Permanent records—Permanent records are records required by law to be permanently retained and which are ineligible for destruction at any time for any reason. 
@@ -101,8 +106,8 @@ Notwithstanding the listing of documents below, no record, whether or not refere
 - General Contracts 4 years after termination
 
 ## IV. Emergency Planning
-denhac’s records will be stored in a safe, secure and accessible manner.
-All documents and financial files that are essential to keeping denhac operating in an emergency will be duplicated or backed up at least every week and maintained off site.
+denhac’s records will be stored in a safe, secure, and accessible manner.
+All documents and financial files that are essential to keeping denhac operating in an emergency will be duplicated or backed up at least every month and maintained off-site.
 All other documents and financial files will be duplicated or backed up periodically as identified by the Treasurer or other person as designated by the Chairperson of the Board and maintained off-site.
 
 ## VI. Document Destruction
