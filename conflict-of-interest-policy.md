@@ -10,28 +10,27 @@ Conflicts of interest must be taken very seriously since they can damage the Org
 Even the appearance of a conflict of interest should be avoided, as it could undermine public support for the Organization.
 
 ### 3. To whom does the policy apply?
-This policy applies to all directors, officers and key persons (“you”) [^2] .
+This policy applies to all directors, officers and key persons (“you”).
 
 # II. Identifying Conflicts of Interest
 #### 1. What is a conflict of interest?
-A potential conflict of interest arises when a director, officer or key person, or that person’s relative[^3] or business: 
+A potential conflict of interest arises when a director, officer or key person, or that person’s relative[^2] or business: 
 - (a) stands to gain a financial benefit from an action the Organization takes or a transaction into which the Organization enters; or
 - (b) has another interest that impairs, or could be seen to impair, the independence or objectivity of the director, officer or key person in discharging their duties to the Organization.
 #### 3. In situations where you are uncertain, err on the side of caution and disclose the potential conflict as set forth in Section III of this policy.
-#### 4. A potential conflict is not necessarily a conflict of interest. A person has a conflict of interest only if the audit committee decides, pursuant to Section IV of this policy, that a conflict of interest exists.[^4]
+#### 4. A potential conflict is not necessarily a conflict of interest. A person has a conflict of interest only if the audit committee decides, pursuant to Section IV of this policy, that a conflict of interest exists.
 
 # III. Disclosing Potential Conflicts of Interest
 1. You must disclose to the best of your knowledge all potential conflicts of interest as soon as you become aware of them and always before any actions involving the potential conflict are taken.
-2. Submit a signed, written statement disclosing all the material facts to the audit committee.
-3. You must file an annual disclosure statement in the form attached to this policy.
-4. If you are a director, you must also file this statement prior to your initial election.
-5. Submit the form to the chair of the audit committee.
+2. Submit a signed, notrized, written statement disclosing all the material facts to to the treasurer or other individual as designated by the Chairperson of the Board of Directors.
+3. You must file an annual disclosure statement. If you are a director, you must also file this statement prior to your initial election or apon re-elction.
+4. Submit the form to the treasurer or other individual as designated by the Chairperson of the Board of Directors.
 
-# IV. Determining Whether a Conflict of Interest Exists [^5]
+# IV. Determining Whether a Conflict of Interest Exists
 #### 1. After there has been disclosure of a potential conflict and after gathering any relevant information from the concerned director, officer or key person, the audit committee shall determine whether there is a conflict of interest. 
 The director, officer or key person shall not be present for deliberation or vote on the matter and must not attempt to influence improperly the determination of whether a conflict of interest exists.
 #### 2. In determining whether a conflict of interest exists, the audit committee shall consider whether the potential conflict of interest would cause a transaction entered into by the Organization to raise questions of bias, inappropriate use of the Organization’s assets, or any other impropriety. 
-#### 3. A conflict always exists in the case of a related party transaction – a transaction, agreement or other arrangement in which a related party [^6] has a financial interest and in which the Organization or any affiliate of the Organization is a participant. [^7]
+#### 3. A conflict always exists in the case of a related party transaction – a transaction, agreement or other arrangement in which a related party [^3] has a financial interest and in which the Organization or any affiliate of the Organization is a participant. [^4]
 #### 4. If the audit committee determines that there is a conflict of interest, it shall refer the matter to the board of directors (“board”).
 
 # V. Procedures for Addressing a Conflict of Interest
@@ -72,21 +71,16 @@ the Organization shall not make a loan to any director or officer.
 -- iv if the compensation is higher or lower than the range of comparable data, the basis for the determination, and;
 -- v. any actions with respect to consideration of the compensation by anyone on the board or committee who had a conflict of interest with respect to the matter.
 
-
-# Footnotes
 [^1]: Key person means a person, other than a director or officer, whether or not an employee of the Organization, who:
-  - a) has responsibilities, or exercises powers or influence over the Organization as a whole similar to the responsibilities, powers, or influence of directors and officers;
-  - b) manages the Organization, or a segment of the Organization that represents a substantial portion of the activities, assets, income, or expenses of the Organization; or
-  - c) alone or with others controls or determines a substantial portion of the Organization’s capital expenditures or operating budget.
-[^2]: Organizations may choose to make the policy applicable to all of their employees, not just key persons.
-[^3]: Relative means a person’s spouse or domestic partner, ancestors, brothers and sisters (whether whole or half-blood), children (whether natural or adopted), grandchildren, great-grandchildren, and spouses or domestic partners of brothers, sisters, children, grandchildren and great-grandchildren.
-[^4]: Alternatively, the policy could provide for disclosure (1) to the board of directors, in which case, the board would decide both whether there is a conflict and how to handle the conflict; or (2) to a different board committee.
-[^5]: Alternatively, the policy could provide for disclosure (1) to the board of directors, in which case, the board would decide both whether there is a conflict and how to handle the conflict; or (2) to a different board committee.
-[^6]: A related party is:
-  - 1. a director, officer or key person of the Organization or any affiliate of the Organization, or
-  - 2. a relative of any individual described in (1), or
-  - 3. an entity in which any individual described in (1) or (2) has an ownership or beneficial interest of 35% or more, or in the case of a partnership or professional Corporation, a direct or indirect ownership interest in excess of 5%.
-[^7]: A transaction is not a related party transaction if:
-  - 1. the transaction, or the related party’s financial interest in the transaction, is de minimis;
-  - 2. the transaction would not customarily be reviewed by the board or the boards of similar organizations in the ordinary course of business and is available to others on the same or similar terms;
-  - 3. the transaction constitutes a benefit provided to a related party solely as a member of a class of the beneficiaries at the Organization intends to benefit as part of the accomplishment of its mission (and that benefit is available to all similarly situated members of the same class on the same terms).
+  a) has responsibilities, or exercises powers or influence over the Organization as a whole similar to the responsibilities, powers, or influence of directors and officers;
+  b) manages the Organization, or a segment of the Organization that represents a substantial portion of the activities, assets, income, or expenses of the Organization; or
+  c) alone or with others controls or determines a substantial portion of the Organization’s capital expenditures or operating budget.
+[^2]: Relative means a person’s spouse or domestic partner, ancestors, brothers and sisters (whether whole or half-blood), children (whether natural or adopted), grandchildren, great-grandchildren, and spouses or domestic partners of brothers, sisters, children, grandchildren and great-grandchildren.
+[^3]: A related party is:
+  a) a director, officer or key person of the Organization or any affiliate of the Organization, or
+  b) a relative of any individual described in (1), or
+  c) an entity in which any individual described in (1) or (2) has an ownership or beneficial interest of 35% or more, or in the case of a partnership or professional Corporation, a direct or indirect ownership interest in excess of 5%.
+[^4]: A transaction is not a related party transaction if:
+  a) the transaction, or the related party’s financial interest in the transaction, is de minimis;
+  b) the transaction would not customarily be reviewed by the board or the boards of similar organizations in the ordinary course of business and is available to others on the same or similar terms;
+  c) the transaction constitutes a benefit provided to a related party solely as a member of a class of the beneficiaries at the Organization intends to benefit as part of the accomplishment of its mission (and that benefit is available to all similarly situated members of the same class on the same terms).
