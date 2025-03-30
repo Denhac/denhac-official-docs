@@ -72,44 +72,6 @@ In addition to use of the Hackerspace indicated above, Member's benefits of Memb
 7. **Member Storage**
    Members may choose to utilize our Member Storage area for anything reasonable they wish to leave at the space between visits. Each member is granted, by request, a single large (~20 gallon) clear plastic storage container with a lid. All of Member's storage must fit inside this container, and the lid must be able to close securely. Additionally, the container must be clearly labeled with the Member's name, Member Code (found in the Account section of the website), or both. The container must be stored with the member label visible from the outside. This is the only approved storage container for our Member Storage area. denhac is not responsible for any items left outside Member's storage container, stacked near it, in front of it, on top, etc. In the event we have to reorganize the storage space, we cannot be held liable for the loss or misplacement of any items that Member has not clearly and unambiguously stored within their approved storage container. It is against policy for any Member to take items from another Member's storage unless said item is an apparent and obvious hazard (electrical, biological, radioactive, etc).
 
-**Benefits of Membership**
-
-In addition to use of the Hackerspace indicated above, Member's benefits of Membership include the following:
-
-1. **Building Access**
-   Membership allows 24-hour access to the Hackerspace and Common Areas of the Building via RFID keycards issued by denhac. The sharing of keys, key fobs, and/or codes with others, regardless of whether or not they are denhac members, is strictly forbidden without prior authorization from a denhac Agent.
-   - **Restricted Areas**
-     There are spaces in our building that denhac does not rent. If it is not a common space or part of denhac's space, you are not allowed access.
-   - **Common Areas**
-     There are a few spaces in the building that are shared by all tenants, such as the bathrooms and kitchen area. Please be respectful and considerate of the shared spaces as appropriate.
-
-2. **Voting Privileges**
-   Members in good standing are eligible to vote in board elections and other such events as defined in the Bylaws.
-
-3. **Wifi Internet Service**
-   Member will be provided with secured wifi internet service (shared by other members at the space by best effort of volunteer support) at no additional cost.
-
-4. **Events**
-   Invitation to participate in certain exhibitions and events organized or hosted by denhac.
-
-5. **Hackerspace Equipment**
-   The Hackerspace will generally be equipped with equipment common to the workspaces available for Member's use. For a more comprehensive list of the available equipment, please visit the denhac wiki. Materials for specific processes (laser cutter, 3d printer filament) may be available but these are not guaranteed. At the time of this writing, denhac has the following main spaces available:
-   - Metals shop
-   - Woodworking shop
-   - CNC room
-   - Electronics room
-   - Laser cutting area
-   - 3d printer array
-   - Crafts and fabrics room
-   - Classroom
-   - Lounge
-
-6. **Additional Equipment**
-   Additional equipment may be added to the hackerspace from time to time that may require additional regulations. Member agrees to abide by any and all regulations and access requirements denhac deems necessary in its sole discretion.
-
-7. **Member Storage**
-   Members may choose to utilize our Member Storage area for anything reasonable they wish to leave at the space between visits. Each member is granted, by request, a single large (~20 gallon) clear plastic storage container with a lid. All of Member's storage must fit inside this container, and the lid must be able to close securely. Additionally, the container must be clearly labeled with the Member's name, Member Code (found in the Account section of the website), or both. The container must be stored with the member label visible from the outside. This is the only approved storage container for our Member Storage area. denhac is not responsible for any items left outside Member's storage container, stacked near it, in front of it, on top, etc. In the event we have to reorganize the storage space, we cannot be held liable for the loss or misplacement of any items that Member has not clearly and unambiguously stored within their approved storage container. It is against policy for any Member to take items from another Member's storage unless said item is an apparent and obvious hazard (electrical, biological, radioactive, etc).
-
 **Hackerspace Use**
 
 Member agrees to abide by the Terms as outlined, or as they may be modified by denhac from time to time. Member understands that the Hackerspace is intended to be used only as an individual's work space, and that Member may not offer classes or regular individual instruction in the Hackerspace or anywhere else in the Building unless specifically authorized by denhac to do so. Member is explicitly prohibited from using denhac or any associated resources in the pursuit of any commercial or for-profit activity.
@@ -192,27 +154,58 @@ Guests must agree to the Liability Waiver in order to be permitted access to the
 
 2. Anyone that is asked to cease unsafe, dangerous, or damaging behavior is expected to comply immediately until which time appropriate processes can be determined.
 
-**Non-Discrimination**
+ 
+**Non-discrimination and diversity statement**
 
 denhac does not promote or discriminate against any person, population group, or organization with regard to categories protected by applicable United States law. These include, but are not limited to race, color, religion, sex, gender expression, sexuality, physical appearance, language, education background, national origin, age, disability, and veteran status.
 
-**Anti-Harassment**
+denhac strives to create an inclusive environment where everyone can feel welcome and respected in our space. While there is not a formal hierarchy here as in a workplace, everyone comes into our space with their own different histories and social norms. We on the Board of Directors expect members to both communicate with each other about the boundaries/limits you each wish to hold, and respect when someone else communicates a boundary with you. If a member deliberately oversteps a boundary that is clearly expressed to them (whether in person, over Slack messages, or via other means) it will be treated as a violation of our anti-harassment policy and the board may need to take disciplinary action, if relevant. Initial communication of a boundary can be done without direct board member support in most cases, but please reach out to any member of the Board of Directors if you would like support of any kind in any phase of the process of boundary setting.
 
-All members must avoid any behavior or conduct that could reasonably be interpreted as harassment. Members are allowed to express the socializing limits they wish to have with another member; members must abide by that limit. Behavior considered as harassment includes, but is not limited to:
+If you feel that you have been harassed at denhac or if someone has made you uncomfortable (even if you aren’t sure if it’s harassment), we on the Board of Directors encourage you to follow the reporting procedure in our code of conduct. Everyone can help make denhac better, and creating a safe environment for everyone is important to making denhac better. Board members can’t act to officially address potential issues if we aren’t made aware of them.
 
-- Offensive comments including epithets, slurs, negative stereotyping, verbal kidding, teasing, jokes, or intimidating acts related to race, religion, gender, gender identity and expression, sexual orientation, disability, or physical appearance.
-- Gratuitous sexual or obscene objects, images, or behavior.
-- Unwelcome physical contact or sexual attention without consent or after a request to stop.
-- Subtle or explicit demands for sexual activity.
-- Continued or repeated verbal abuse.
-- Threats or incitement of violence towards any individual, including encouraging a person to engage in self-harm.
-- Deliberate intimidation by words, gestures, body language, or menacing behavior.
-- Stalking.
-- Harassing photography or recording, including logging online activity for harassment purposes.
-- Continued one-on-one contact or communication after requests to cease.
-- Deliberate "outing" of a sensitive aspect of a person's identity without their consent.
-- Deliberate misgendering. This includes dead-naming or persistently using a pronoun that does not correctly reflect a person's gender identity.
-- Discussions about explicit sexual behavior or interests.
+**Code of conduct and anti-harassment policy**
+
+We, the denhac Board of Directors, expect everyone involved in our community to follow this code of conduct. This applies to all of our methods of communication.
+
+denhac does not tolerate harassment of people at our events or space in any form. 
+
+Behavior considered as harassment includes, but is not limited to:
+
+1. Offensive comments including epithets, slurs, negative stereotyping, verbal kidding, teasing, jokes, or intimidating acts related to race, religion, gender, gender identity and expression, sexual orientation, disability, or physical appearance. Consider that calling attention to differences can feel alienating.
+2. Gratuitous sexual or obscene objects, images, discussions, or behavior
+3. Physical contact, romantic advances, sexual attention, or other contact or messaging that continues after a request to stop or a negative/"no" response
+4. Physical contact, sexual or romantic attention, or other actions where informed and voluntary consent can be expected to be received, but was not received in advance
+5. Subtle or explicit demands for sexual or romantic activity
+6. Physical or verbal abuse
+7. Threats or incitement of violence towards any individual, including encouraging a person to engage in self-harm
+8. Deliberate intimidation by words, gestures, body language, or menacing behavior
+9. Stalking
+10. Harassing photography or recording, including logging online activity for harassment purposes
+11. Continued one-on-one contact or communication after active requests to cease or other indicators of a lack of consent (such as a pattern of sending multiple long messages that are not necessary to space operations and that receive no response)
+12. Deliberate outing/sharing of a sensitive aspect of a person’s identity without their consent
+13. Deliberate misgendering. This includes dead-naming or persistently using a pronoun that does not correctly reflect a person’s gender identity.
+14. Retaliating against anyone who files a complaint that someone has violated this code of conduct 
+
+How to submit a harassment report
+Reports should be submitted in writing (e.g. on Slack or via denhac.org email) to any member of our Board of Directors, listed at https://denhac.org/wiki/the-board; the entire board is also available via email at board@denhac.org. If your report is given to a single member of the board, they will ask to pull in a second board member of your choice, to share the detailed context of the issue in order to better represent it to the rest of the board and help address the issue.
+
+What happens when a harassment report is submitted
+Report information will be shared and discussed privately over board-only slack and/or private board executive session - current board members are the only ones present at the time of discussion, but future board members may have access to the discussion log as well. Board members will investigate the report privately (potentially including use of our camera footage but we will check in with the reporter before taking any actions which might reidentify the reporter to a harasser), discuss and decide on next steps to address the incident, and communicate back to the reporter on the next steps chosen within a week after the next Executive Session completes. Anonymous summaries of public events that require a statement, and/or summary statistics around incident management, may also be shared more widely across denhac for transparency.
+
+Potential consequences of violating the code of conduct
+denhac reserves the right to terminate any membership at any time for any reason, but the Board of Directors strives for the process to be as fair and open as privacy and discretion allow us to be. Upon breaching of the denhac rules and member agreements, the following actions may be performed in any order:
+
+* The member will get a verbal warning from a Director or a Manager.
+* The member will be called before the Board to explain and/or discuss the behavior in question, usually within Executive Session.
+* The member will receive a formal Warning, via letter or email, signed by a board member.
+* The member will be put on probation.
+* Membership will be suspended for a length of time.
+* Membership will be terminated.
+
+Note that some offenses – such as non-payment of dues, or negligence leading to danger to our members or physical space – can trigger automatic membership suspension or termination, without a formal review by the Board.
+Definitions of suspension and termination can be found in our [membership agreements](https://github.com/Denhac/denhac-official-docs/blob/main/membership-agreement.md).
+
+*Thank you to Geek Feminism Wiki for their [detailed code of conduct documentation](https://geekfeminism.fandom.com/wiki/Code_of_conduct_evaluations).*
 
 **Hazardous Substances or Activities**
 
@@ -348,4 +341,5 @@ The following general terms apply to denhac and its members:
    - denhac will notify members of changes to the Membership Agreement using the contact information provided by the member.
 
 I agree that I have fully read the Membership Agreement prior to signing up for a Membership, and I am fully aware that by entering into this agreement I am affecting my legal rights.
+
 
