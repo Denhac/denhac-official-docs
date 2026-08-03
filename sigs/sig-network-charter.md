@@ -18,8 +18,10 @@ The denhac Network SIG (SIG Network) is responsible for the maintenance and good
 - Project support for other denhac groups; for example, a project group may request a dedicated Internet of Things network with specific access controls
 - Camera installation and maintenance
 - DHCP and internal DNS, including inside.denhac.org
-- denhac VPN infrastructure and access management, with WireGuard serving as the current preferred VPN solution
-- Care and maintenance of the denhac community network-attached storage device (DenNAS)
+- denhac inbound and outbound VPN infrastructure and access management
+- Care and maintenance of a small set of shared network devices, currently including but not limited to:
+  - The denhac community network-attached storage device (DenNAS)
+  - Home Assistant dedicated server (Home Assistant Yellow)
 - Maintenance and support of the denhac network connection that provides Internet access to DenBot, including the denhac-managed uplink, VLAN configuration, and any access controls applied at the denhac network boundary
 
 ### Out of scope
