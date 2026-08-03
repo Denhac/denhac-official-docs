@@ -11,24 +11,28 @@ The denhac Network SIG (SIG Network) is responsible for the maintenance and good
 
 ### In scope
 
-- denhac’s Unifi network equipment, configuration, connecting hardware and cables, server racks
-- Network access management 
-- Obstructions to network access for members and guest (firewall, wall garden, port forward, etc)
-- Active monitoring of denhac’s network for abuse control
-- Project support for other denhac groups i.e. #project-home-assistant may request a special IoT network with specific access controls
+- denhac UniFi network equipment, configurations, connecting hardware, cabling, and server racks
+- Network access management
+- Network access controls and restrictions for members and guests, including firewall rules, walled-garden configurations, port forwarding, and similar controls
+- Active monitoring of denhac’s network for operational issues, security concerns, and abuse control
+- Project support for other denhac groups; for example, a project group may request a dedicated Internet of Things network with specific access controls
 - Camera installation and maintenance
-- DHCP, Internal DNS (inside.denhac.org)
+- DHCP and internal DNS, including inside.denhac.org
+- denhac VPN infrastructure and access management, with WireGuard serving as the current preferred VPN solution
+- Care and maintenance of the denhac community network-attached storage device (DenNAS)
+- Maintenance and support of the denhac network connection that provides Internet access to DenBot, including the denhac-managed uplink, VLAN configuration, and any access controls applied at the denhac network boundary
 
 ### Out of scope
 
-- denhac project computers i.e. 3D printer computer, laser cutter computer
-- Camera footage access
+- denhac project computers, such as computers associated with 3D printers or laser cutters
+- Camera footage access and administration
 - Building physical access management
-- Individual member server access
+- Individual member server access or administration
 - 700 Kalamath network and equipment
-- denhac.org (Wordpress), DigitalOcean
-- VPN, External DNS (denhac.org, space.denhac.org)
-- Audio visual equipment
+- denhac.org WordPress hosting and DigitalOcean infrastructure
+- External DNS, including denhac.org and space.denhac.org
+- Audio-visual equipment
+- DenBot’s internal network infrastructure, devices, systems, configurations, or technical support beyond the denhac-provided Internet connection and its associated denhac-managed VLAN and access controls
 
 ## Roles
 
@@ -38,10 +42,10 @@ SIG Network will be composed of two Co-Chairs.
 
 ### Positions of Trust
 
-The Co-Chairs will appoint Network Managers based on demonstrated skill and merit; and will document the members names in GitHub/Wiki (specific criteria may be defined at a later time.)
+The Co-Chairs will appoint Network Managers based on demonstrated skill and merit. The names of appointed Network Managers will be documented in the appropriate denhac GitHub repository or Wiki. Specific appointment criteria may be defined at a later time.
 
-## Organization Management
+### Organization Management
 
-Official Slack channel will be #sig-network and will be used for all SIG discussions and communications.
+The official Slack channel will be #sig-network and will be used for SIG discussions and communications.
 
-Meetings will be organized through Slack, meetings will be held on a regular basis (once a month to start).
+Meetings will be organized through Slack and held on a regular basis, initially once per month.
