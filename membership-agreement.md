@@ -72,44 +72,6 @@ In addition to use of the Hackerspace indicated above, Member's benefits of Memb
 7. **Member Storage**
    Members may choose to utilize our Member Storage area for anything reasonable they wish to leave at the space between visits. Each member is granted, by request, a single large (~20 gallon) clear plastic storage container with a lid. All of Member's storage must fit inside this container, and the lid must be able to close securely. Additionally, the container must be clearly labeled with the Member's name, Member Code (found in the Account section of the website), or both. The container must be stored with the member label visible from the outside. This is the only approved storage container for our Member Storage area. denhac is not responsible for any items left outside Member's storage container, stacked near it, in front of it, on top, etc. In the event we have to reorganize the storage space, we cannot be held liable for the loss or misplacement of any items that Member has not clearly and unambiguously stored within their approved storage container. It is against policy for any Member to take items from another Member's storage unless said item is an apparent and obvious hazard (electrical, biological, radioactive, etc).
 
-**Benefits of Membership**
-
-In addition to use of the Hackerspace indicated above, Member's benefits of Membership include the following:
-
-1. **Building Access**
-   Membership allows 24-hour access to the Hackerspace and Common Areas of the Building via RFID keycards issued by denhac. The sharing of keys, key fobs, and/or codes with others, regardless of whether or not they are denhac members, is strictly forbidden without prior authorization from a denhac Agent.
-   - **Restricted Areas**
-     There are spaces in our building that denhac does not rent. If it is not a common space or part of denhac's space, you are not allowed access.
-   - **Common Areas**
-     There are a few spaces in the building that are shared by all tenants, such as the bathrooms and kitchen area. Please be respectful and considerate of the shared spaces as appropriate.
-
-2. **Voting Privileges**
-   Members in good standing are eligible to vote in board elections and other such events as defined in the Bylaws.
-
-3. **Wifi Internet Service**
-   Member will be provided with secured wifi internet service (shared by other members at the space by best effort of volunteer support) at no additional cost.
-
-4. **Events**
-   Invitation to participate in certain exhibitions and events organized or hosted by denhac.
-
-5. **Hackerspace Equipment**
-   The Hackerspace will generally be equipped with equipment common to the workspaces available for Member's use. For a more comprehensive list of the available equipment, please visit the denhac wiki. Materials for specific processes (laser cutter, 3d printer filament) may be available but these are not guaranteed. At the time of this writing, denhac has the following main spaces available:
-   - Metals shop
-   - Woodworking shop
-   - CNC room
-   - Electronics room
-   - Laser cutting area
-   - 3d printer array
-   - Crafts and fabrics room
-   - Classroom
-   - Lounge
-
-6. **Additional Equipment**
-   Additional equipment may be added to the hackerspace from time to time that may require additional regulations. Member agrees to abide by any and all regulations and access requirements denhac deems necessary in its sole discretion.
-
-7. **Member Storage**
-   Members may choose to utilize our Member Storage area for anything reasonable they wish to leave at the space between visits. Each member is granted, by request, a single large (~20 gallon) clear plastic storage container with a lid. All of Member's storage must fit inside this container, and the lid must be able to close securely. Additionally, the container must be clearly labeled with the Member's name, Member Code (found in the Account section of the website), or both. The container must be stored with the member label visible from the outside. This is the only approved storage container for our Member Storage area. denhac is not responsible for any items left outside Member's storage container, stacked near it, in front of it, on top, etc. In the event we have to reorganize the storage space, we cannot be held liable for the loss or misplacement of any items that Member has not clearly and unambiguously stored within their approved storage container. It is against policy for any Member to take items from another Member's storage unless said item is an apparent and obvious hazard (electrical, biological, radioactive, etc).
-
 **Hackerspace Use**
 
 Member agrees to abide by the Terms as outlined, or as they may be modified by denhac from time to time. Member understands that the Hackerspace is intended to be used only as an individual's work space, and that Member may not offer classes or regular individual instruction in the Hackerspace or anywhere else in the Building unless specifically authorized by denhac to do so. Member is explicitly prohibited from using denhac or any associated resources in the pursuit of any commercial or for-profit activity.
