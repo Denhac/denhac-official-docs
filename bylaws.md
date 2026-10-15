@@ -14,6 +14,7 @@
 2. The General Election of the Board of Directors will take place on the date of the April and October Scheduled Board Meetings.
 3. Directors shall serve for a period of one (1) year. Directors elected during the April Board meeting will serve until the following April, and the Directors elected in October will serve until the following October.
 4. In case of emergency, the Board of Directors may vote to postpone an election. The term of Directors voted in during a postponed election will serve until the following April/October election, whichever is closer to one (1) year.
+5. Members will be able to submit votes for a Board election via the Internet.
 
 ## Section 3. Eligibility, Nominations, Voting
 1. To be eligible to serve on the Board, a person must be a current Member of denhac and have been in good standing for a minimum of three (3) months, and capable of fulfilling the expectations of board membership.
@@ -24,7 +25,7 @@
 6. In the event of having fewer nominations than vacancies, the vacancy rules will apply.
 
 ## Section 4. Vacancies
-1. When a vacancy arises during the middle of a term, the denhac Members will select by majority vote a replacement director to serve for the remainder of the departing director’s term. In the event of two or more directors departing, the incoming directors will fill the vacated terms. Directors with more votes will fill the vacancies with longer remaining terms respectively. Vacancies may also be filled as part of the general election process.
+1. When a vacancy arises during the middle of a term, the denhac Members will select by majority vote a replacement director to serve for the remainder of the departing director’s term during any election. In the event of two or more directors departing, the incoming directors will fill the vacated terms. Directors with more votes will fill the vacancies with longer remaining terms respectively. Vacancies may also be filled as part of the general election process.
 2. A General Election will be held within 15 days of any event causing the Board of Directors to have 3 or fewer members.
 3. Board members who are considered to have fallen out of good standing shall be dismissed from the board.
 4. Board members may lose their board seat by a supermajority vote of the board, but without affecting their current membership status.
